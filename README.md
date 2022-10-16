@@ -109,4 +109,4 @@
 -    /worldborder = ตั้งค่าขีดจำกัดของขอบโลก (สามารถเรียนรู้คำสั่งเพิ่มเติมได้ที่เว็บไซต์ทางการ)
 
 ก็หวังว่า คำสั่ง Minecraft ทั้งหมดที่ระบุไป จะเป็นประโยชน์สำหรับผู้เล่นเกม Minecraft ทุกคนไม่มากก็น้อย หรือหากพลาดคำสั่งตกหล่นอะไร ก็สามารถตอบแสดงความเห็นได้ตลอดเวลา
-### ขอบคุณแหล่งที่มา: [www.gamingdose.com](https://www.gamingdose.com) [Minecraft_Wiki_th](https://minecraft.fandom.com/th/wiki/Minecraft_Wiki)
+### ขอบคุณแหล่งที่มา: [gamingdose](https://www.gamingdose.com) | [Minecraft_Wiki_th](https://minecraft.fandom.com/th/wiki/Minecraft_Wiki)
