@@ -1,4 +1,6 @@
 # -Minecraft
+(https://cdn.gamingdose.com/wp-content/uploads/2019/05/Minecraft-768x404.jpg)
+
 คำสั่ง Minecraft ที่เป็นประโยชน์ต่อการเล่น และควบคุมเซิร์ฟเวอร์
 
 คำสั่งที่ใช้ : ตายของไม่ตก
